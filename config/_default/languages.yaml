@@ -14,11 +14,11 @@ fr:
     pages_categories: /:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    posts: /alternatives/:year-:month-:day-:slug/
-    posts_categories: /alternatives/:slug/
+    posts: /usages/:year-:month-:day-:slug/
+    posts_categories: /usages/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/alternatives/
+    authors: /equipe/:slug/usages/
   taxonomies:
     administrator: administrators
     author: authors
