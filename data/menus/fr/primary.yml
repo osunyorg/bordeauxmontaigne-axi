@@ -1,13 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Usages
-  target: "/usages/"
+- title: Alternatives
+  target: "/alternatives/"
   kind: page
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Alternatives
   target: "/alternatives/"
   kind: page
@@ -22,4 +22,25 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+- title: Usages
+  target: "/usages/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Usages
+  target: "/usages/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 
