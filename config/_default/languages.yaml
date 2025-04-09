@@ -14,6 +14,9 @@ fr:
     pages_categories: /:slug/
     posts: /alternatives/:year-:month-:day-:slug/
     posts_categories: /alternatives/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/alternatives/
   taxonomies:
     administrator: administrators
     author: authors
