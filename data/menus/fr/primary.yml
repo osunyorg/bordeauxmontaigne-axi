@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Alternatives
-  target: "/alternatives/"
+- title: Usages
+  target: "/usages/"
   kind: page
   new_tab: false
   children: []
