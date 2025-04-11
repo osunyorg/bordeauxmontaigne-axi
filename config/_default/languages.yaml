@@ -16,6 +16,9 @@ fr:
     projects_categories: /alternatives/:slug/
     posts: /usages/:year-:month-:day-:slug/
     posts_categories: /usages/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/usages/
   taxonomies:
     administrator: administrators
     author: authors
