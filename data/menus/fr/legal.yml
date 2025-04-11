@@ -30,8 +30,10 @@ items:
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
 - title: Équipe
-  target: ''
-  kind: blank
+  target: "/equipe/"
+  kind: page
   new_tab: false
   children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
