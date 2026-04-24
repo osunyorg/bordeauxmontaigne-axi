@@ -15,66 +15,66 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/equipe/equipe-1/"
 
 [[redirects]]
-from = "/equipe/kyara-amourdom/alternatives/"
+from = "/equipe/kyara-amourdom/alternatives/index.html"
 to = "/equipe/kyara-amourdom/usages/"
 
 [[redirects]]
-from = "/alternatives/2025-04-09-traduire-des-mots-ou-des-textes/"
+from = "/alternatives/2025-04-09-traduire-des-mots-ou-des-textes/index.html"
 to = "/usages/2025-04-09-traduire-des-mots-ou-des-textes/"
 
 [[redirects]]
-from = "/equipe/margaux-astabie/alternatives/"
+from = "/equipe/margaux-astabie/alternatives/index.html"
 to = "/equipe/margaux-astabie/usages/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/alternatives/"
 
 [[redirects]]
-from = "/alternatives/2025-04-09-obtenir-des-sources-et-des-informations/"
+from = "/alternatives/2025-04-09-obtenir-des-sources-et-des-informations/index.html"
 to = "/usages/2025-04-09-obtenir-des-sources-et-des-informations/"
 
 [[redirects]]
-from = "/alternatives/usages/"
+from = "/alternatives/usages/index.html"
 to = "/alternatives/besoins/"
 
 [[redirects]]
-from = "/alternatives/2025-04-09-corriger-des-mots-ou-des-textes/"
+from = "/alternatives/2025-04-09-corriger-des-mots-ou-des-textes/index.html"
 to = "/usages/2025-04-09-corriger-des-mots-ou-des-textes/"
 
 [[redirects]]
-from = "/alternatives/2025-pixabay-2/"
+from = "/alternatives/2025-pixabay-2/index.html"
 to = "/alternatives/2025-pixabay/"
 
 [[redirects]]
-from = "/alternatives/usages/correction/"
+from = "/alternatives/usages/correction/index.html"
 to = "/alternatives/besoins/correction/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/usages/"
 
 [[redirects]]
-from = "/equipe/driss-chiari-noblet/alternatives/"
+from = "/equipe/driss-chiari-noblet/alternatives/index.html"
 to = "/equipe/driss-chiari-noblet/usages/"
 
 [[redirects]]
-from = "/equipe/phuc-nguyen/alternatives/"
+from = "/equipe/phuc-nguyen/alternatives/index.html"
 to = "/equipe/phuc-nguyen/usages/"
 
 [[redirects]]
-from = "/alternatives/usages/inspiration/"
+from = "/alternatives/usages/inspiration/index.html"
 to = "/alternatives/besoins/inspiration/"
 
 [[redirects]]
-from = "/alternatives/besoins/assistant/"
+from = "/alternatives/besoins/assistant/index.html"
 to = "/alternatives/besoins/assistant-juridique/"
 
 [[redirects]]
-from = "/alternatives/usages/corriger-des-mots-ou-des-textes/"
+from = "/alternatives/usages/corriger-des-mots-ou-des-textes/index.html"
 to = "/alternatives/besoins/correction/"
 
